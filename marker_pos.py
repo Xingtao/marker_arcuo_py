@@ -37,7 +37,9 @@ image_pathes = ['test_images/marker-500.bmp',
                 'dict_images/temp1.png',
                 'dict_images/temp2.png',
                 'dict_images/temp3.png',
-                'dict_images/temp4.png'
+                'dict_images/temp4.png',
+                'dict_images/custom_aruco_0.png',
+                'dict_images/custom_aruco_1.png'
                 ]
 
 
